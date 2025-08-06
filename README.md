@@ -1,6 +1,6 @@
 
 ## Olá, sou Amanda!    
-Me chamo Amanda Jury Nakamura e sou veterinária e estudante de Sistemas de Informação pela UTFPR. Tenho grande interesse na área de desenvolvimento, análise de dados e Business Intelligence. 📊 Até o momento tive experiências nas linguagens C, C++, JAVA, Python e SQL.
+Me chamo Amanda Jury Nakamura e sou veterinária e estudante de Sistemas de Informação pela UTFPR com o objetivo de migrar de área. Tenho grande interesse em desenvolvimento, análise de dados e Business Intelligence. 📊 Até o momento tive experiências nas linguagens C, C++, JAVA, Python e SQL.
 
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c) 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
